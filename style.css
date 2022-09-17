@@ -1,0 +1,145 @@
+
+
+.pictures{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px 20px; /* row-gap column gap */
+    
+   
+}
+
+
+img{
+    width: 500px;
+    height: 245px;
+}
+
+.title1 {
+    display: none;
+    position: relative;
+    text-align: center;
+    top: -60px;
+    border: 1px solid white;
+    background-color: rgba(255, 255, 255, 0.5) ;
+}
+
+.wrap1:hover div.title1 {
+    display: block;
+}
+
+.title2 {
+    display: none;
+    position: relative;
+    text-align: center;
+    top: -60px;
+    border: 1px solid white;
+    background-color: rgba(255, 255, 255, 0.5) ;
+}
+
+.wrap2:hover div.title2 {
+    display: block;
+}
+
+.title3 {
+    display: none;
+    position: relative;
+    text-align: center;
+    top: -60px;
+    border: 1px solid white;
+    background-color: rgba(255, 255, 255, 0.5) ;
+}
+
+.wrap3:hover div.title3 {
+    display: block;
+}
+
+.title4 {
+    display: none;
+    position: relative;
+    text-align: center;
+    top: -60px;
+    border: 1px solid white;
+    background-color: rgba(255, 255, 255, 0.5) ;
+}
+
+.wrap4:hover div.title4 {
+    display: block;
+}
+
+.title5 {
+    display: none;
+    position: relative;
+    text-align: center;
+    top: -60px;
+    border: 1px solid white;
+    background-color: rgba(255, 255, 255, 0.5) ;
+}
+
+.wrap5:hover div.title5 {
+    display: block;
+}
+
+.title6 {
+    display: none;
+    position: relative;
+    text-align: center;
+    top: -60px;
+    border: 1px solid white;
+    background-color: rgba(255, 255, 255, 0.5) ;
+}
+
+.wrap6:hover div.title6 {
+    display: block;
+}
+
+.title7 {
+    display: none;
+    position: relative;
+    text-align: center;
+    top: -60px;
+    border: 1px solid white;
+    background-color: rgba(255, 255, 255, 0.5) ;
+}
+
+.wrap7:hover div.title7 {
+    display: block;
+}
+
+.title8 {
+    display: none;
+    position: relative;
+    text-align: center;
+    top: -60px;
+    border: 1px solid white;
+    background-color: rgba(255, 255, 255, 0.5) ;
+}
+
+.wrap8:hover div.title8 {
+    display: block;
+}
+
+.title9 {
+    display: none;
+    position: relative;
+    text-align: center;
+    top: -60px;
+    border: 1px solid white;
+    background-color: rgba(255, 255, 255, 0.5) ;
+}
+
+.wrap9:hover div.title9 {
+    display: block;
+}
+
+.title10 {
+    display: none;
+    position: relative;
+    text-align: center;
+    top: -60px;
+    border: 1px solid white;
+    background-color: rgba(255, 255, 255, 0.5) ;
+}
+
+.wrap10:hover div.title10 {
+    display: block;
+}
